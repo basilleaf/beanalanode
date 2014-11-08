@@ -1,0 +1,19 @@
+{
+  "name": "pialanode",
+  "version": "1.0.0",
+  "description": "Listening to Lightblue Beans",
+  "main": "hell_bean.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "ble-bean": "^1.0.0",
+    "noble": "^0.3.6",
+    "twilio": "^1.7.0",
+    "xpc-connection": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisa Ballard",
+  "license": "ISC"
+}
